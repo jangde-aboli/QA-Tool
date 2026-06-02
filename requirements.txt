@@ -1,0 +1,9 @@
+streamlit
+PyPDF2
+python-dotenv
+google-generativeai
+werkzeug
+pdf2image==1.17.0
+pytesseract
+Pillow
+PyMuPDF
